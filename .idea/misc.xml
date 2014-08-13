@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdProvider" IDEtalkID="79311171CF9277517D877BE39403221D" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+  <component name="ScalaProjectSettings">
+    <option name="dontCacheCompoundTypes" value="true" />
+    <option name="ignorePerformance" value="true" />
+  </component>
+</project>
+
